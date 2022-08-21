@@ -30,7 +30,7 @@ function Card({item}) {
                         
                         
                     </ul>
-                    <div classNamename="d-grid">
+                    <div className="d-grid">
                         <a href="#" className="btn btn-primary text-uppercase">Button</a>
                     </div>
                 </div>
